@@ -1,0 +1,63 @@
+[INIT]
+NumMaps=7
+
+[Mapa1]
+Name=Ullathorpe Este
+MusicNum=13-1
+Pk= 1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 15
+LeftPunto= 4
+
+[Mapa2]
+Name=Dungeon NW
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 16
+LeftPunto= 4
+
+[Mapa3]
+Name=Dungeon Virthruk
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 17
+LeftPunto= 4
+
+[Mapa4]
+Name=Torneo
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 18
+LeftPunto= 4
+
+[Mapa5]
+Name=Sala de Duelo
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 14
+LeftPunto= 4
+
+[Mapa6]
+Name=Deathmatch
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 13
+LeftPunto= 4
+
+[Mapa7]
+Name=Mapa de GMs
+MusicNum=38-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 0
+LeftPunto= 0
+
+
+

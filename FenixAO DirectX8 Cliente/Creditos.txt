@@ -1,0 +1,9 @@
+Fenix AO en DirectX8
+
+Echo por ·Parra
+Arreglado por Thusing
+Algunas cosas tomadas del cliente de DarkTester
+
+####################################
+############www.gs-zone.org############
+####################################

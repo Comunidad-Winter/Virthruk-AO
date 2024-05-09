@@ -1,0 +1,13 @@
+[Constantes]
+TileHeight=32
+TileWidth=32
+[Version]
+V=2
+[Rutas]
+Graficos=C:\Users\Gas\Desktop\Virthruk AO\FenixAO DirectX8 Cliente\Graficos
+SaveGraficos=C:\Users\Gas\Desktop\Guardado\Imagenes
+Inits=C:\Users\Gas\Desktop\Virthruk AO\FenixAO DirectX8 Cliente\Init
+Dats=C:\Users\Gas\Desktop\Virthruk AO\fenixao-server-src\fenixao-server-src\Dat
+SaveInit=C:\Users\Gas\Desktop\Guardado\Init
+SaveDat=C:\Users\Gas\Desktop\Guardado\dat
+WavPath=C:\Users\Gas\Desktop\Virthruk AO\FenixAO DirectX8 Cliente\Wav
